@@ -1,0 +1,10 @@
+*{
+	font-family: helvetica, sans-serif;
+	margin-top:20px;
+}
+
+body{
+	float: center;
+	margin: 0px auto;
+	max-width:  900px;
+}
